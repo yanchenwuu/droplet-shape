@@ -1,1 +1,1 @@
-Code for the paper 'Unveiling the complex morphology of sessile droplets on heterogeneous surfaces".
+Code for the paper 'Unveiling the complex morphologies of sessile droplets on heterogeneous surfaces".
