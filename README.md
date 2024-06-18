@@ -1,1 +1,1 @@
-Code for the paper 'Unveiling the complex morphologies of sessile droplets on heterogeneous surfaces".
+Code for the contour curve model of the paper 'Unveiling the complex morphologies of sessile droplets on heterogeneous surfaces".
